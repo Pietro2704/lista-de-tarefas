@@ -9,6 +9,12 @@ git config --global user.name "Seu nome"
 git config --global user.email "seu@email.com"
 ```
 
+**Pra ver se está configurado:**
+```bash
+git config user.name
+git config user.email
+```
+
 ### Inicialização:
 ```bash
 git init
